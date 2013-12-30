@@ -1,0 +1,33 @@
+.social-menu {
+  margin:20px 0;
+  max-width: 300px;
+}
+.social {
+  font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+  padding: 10px 20px;
+  background-color: #fff;
+  /*margin: 7px 0;*/
+  cursor: pointer;
+}
+.social i {
+  margin-right: 10px;
+}
+.social-text {
+  font-size: 25px;
+}
+
+.facebook {
+  color: #3B5998;
+}
+.twitter {
+  color: #4099FF;
+}
+
+.facebook:hover {
+  color: #fff;
+  background-color: #3B5998;
+}
+.twitter:hover {
+  color: #fff;
+  background-color: #4099FF;
+}
